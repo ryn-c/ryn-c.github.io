@@ -31,11 +31,11 @@ html {
         color: darkslategrey;
       }
     
-    .page__title {
+    [itemprop="headline"] {
         color: darkslategrey;
       }
       
-    .author__name.p_name {
+    [itemprop="name"] {
         color: white;
       }
     
