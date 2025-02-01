@@ -26,12 +26,16 @@ html {
     strong {
         color: darkslategray;
       }
-      
+    
+    .site_title {
+        color: darkslategrey;
+      }
+
     h1, h2, h3, h4, h5, h6 {
         color: darkslategrey;
       }
     
-    [itemprop="headline"] {
+    [itemprop="headline"] h1 {
         color: darkslategrey;
       }
       
