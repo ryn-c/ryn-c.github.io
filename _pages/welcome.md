@@ -1,6 +1,8 @@
 ---
 permalink: /welcome/
+layout: single
 title: "Bienvenue !"
+author_profile: "true"
 ---
 
 Parfois l'envie vous prend de vous lancer de nouveaux **défis**, seul ou à plusieurs.<br>
